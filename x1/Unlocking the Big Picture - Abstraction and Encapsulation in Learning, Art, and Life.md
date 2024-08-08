@@ -222,9 +222,9 @@ Based on the lecture script, here are the core principles for drawing:
 
 1. Start with the big picture:
     
-    - . $${\color{orange}Begin by sketching the overall shape and composition}$$
-    - ==Focus on the entire image before refining details==
-    - ==Avoid getting caught up in perfecting small areas too early==
+    - _Begin by sketching the overall shape and composition_
+    - _Focus on the entire image before refining details_
+    - _Avoid getting caught up in perfecting small areas too early_
 2. Build in layers:
     
     - Gradually develop the drawing, starting with rough shapes
@@ -243,13 +243,13 @@ Based on the lecture script, here are the core principles for drawing:
 5. Refine at the end:
     
     - Save detailed refinement for the final stages
-    - ==Focus on getting the fundamental structure right first==
+    - _Focus on getting the fundamental structure right first_
     - Use cleaning up and polishing as the last step, not the first
 6. Practice efficiency:
     
     - Consider the most effective way to achieve the desired result
     - Don't waste time on unnecessary detailing early on
-    - ==Think about long-term progress rather than short-term perfection==
+    - _Think about long-term progress rather than short-term perfection_
 
 By following these principles, artists can avoid common pitfalls such as getting stuck on details too early, losing sight of the overall composition, and being reluctant to make necessary changes. This approach promotes more efficient and effective drawing practices.
 
@@ -333,19 +333,19 @@ But when this idea, this purpose, starts to fritter away and people lose it, a k
 
 ###### - Knee-jerk Patriotism
 
-For instance, there becomes a sort of knee-jerk patriotism, this kind of parody of ideas that maybe were fresh in the very beginning but they've all become sort of dead. ==It all becomes just about believing so strongly in patriotism, in the nation, in the religion, but it has no spirit behind it. There's no freshness, there's no new ideas. It's just about mimicking and imitating the values that people are trying to promote.==
+For instance, there becomes a sort of knee-jerk patriotism, this kind of parody of ideas that maybe were fresh in the very beginning but they've all become sort of dead. _It all becomes just about believing so strongly in patriotism, in the nation, in the religion, but it has no spirit behind it. There's no freshness, there's no new ideas. It's just about mimicking and imitating the values that people are trying to promote._
 
 ###### - Factions and Narrow Viewpoints
 
-Then we see the creation of all kinds of cliques and factions, and each little faction seems to have its own little interpretation of what is really going on in the world, a kind of narrow viewpoint of reality. ==This gives a group that belongs to the faction a sense of its own cohesion and its own unity and its own purpose, but it's all very false because it's based on a very narrow interpretation of history, a very narrow interpretation of what's going on. It's not connected to the overall picture, it's not connected to the group as a whole.==
+Then we see the creation of all kinds of cliques and factions, and each little faction seems to have its own little interpretation of what is really going on in the world, a kind of narrow viewpoint of reality. _This gives a group that belongs to the faction a sense of its own cohesion and its own unity and its own purpose, but it's all very false because it's based on a very narrow interpretation of history, a very narrow interpretation of what's going on. It's not connected to the overall picture, it's not connected to the group as a whole._
 
 ###### - Conspiracy Theories
 
-We also notice all kinds of conspiracy theories starting to sprout up like mushrooms. ==Where people, instead of seeing the connections of all the little dots that connect about what is happening in the world, they create their own kind of connections in a kind of group paranoia.== And so conspiracy theories become very popular in moments like this.
+We also notice all kinds of conspiracy theories starting to sprout up like mushrooms. _Where people, instead of seeing the connections of all the little dots that connect about what is happening in the world, they create their own kind of connections in a kind of group paranoia._ And so conspiracy theories become very popular in moments like this.
 
 ###### - Disconnection from Historical Context
 
-==People have become divorced from any kind of historical context. They imagine that what's happening in the world is just something new and never happened before.== So for instance, if you have no understanding of the history of race in the United States, of what it was like to be black in the 30s and 40s and 50s and the intense racism that was existing at that time, you can imagine now in the present that things are fine, that you know actually we've made so much progress and that people are just complaining for no reason.
+_People have become divorced from any kind of historical context. They imagine that what's happening in the world is just something new and never happened before._ So for instance, if you have no understanding of the history of race in the United States, of what it was like to be black in the 30s and 40s and 50s and the intense racism that was existing at that time, you can imagine now in the present that things are fine, that you know actually we've made so much progress and that people are just complaining for no reason.
 
 ###### - Misplaced Belief in Technology
 
@@ -353,9 +353,9 @@ The same thing happens with beliefs in technology, as if the phrase is "this tim
 
 ##### 4. Contradictions and Power Grabs
 
-Another thing that happens is that all kinds of contradictions start to emerge from within. So people are trying to promote freedom and diversity, and yet they want to tamp down anybody who might disagree with them - a complete walking contradiction. ==The belief in freedom and celebrating diversity, but shutting up anybody who might possibly disagree. The contradiction is so obvious, but people can't notice it in these times.==
+Another thing that happens is that all kinds of contradictions start to emerge from within. So people are trying to promote freedom and diversity, and yet they want to tamp down anybody who might disagree with them - a complete walking contradiction. _The belief in freedom and celebrating diversity, but shutting up anybody who might possibly disagree. The contradiction is so obvious, but people can't notice it in these times._
 
-And when things get so chaotic and so disjointed, also it works just like mushrooms as before: ==con artists and demagogues and all kinds of weird gurus are going to fill the emptiness that people are feeling with all kinds of new belief systems and new kinds of religions and cults. And the leaders that emerge, the con artist leaders that emerge, aren't really connected to any kind of ideas. It's really just about power itself and naked self-interest.==
+And when things get so chaotic and so disjointed, also it works just like mushrooms as before: _con artists and demagogues and all kinds of weird gurus are going to fill the emptiness that people are feeling with all kinds of new belief systems and new kinds of religions and cults. And the leaders that emerge, the con artist leaders that emerge, aren't really connected to any kind of ideas. It's really just about power itself and naked self-interest._
 
 ---
 ##### 5. In addition
@@ -425,12 +425,12 @@ it is the same as a vanishing point, if you get closer as one step, it'll run aw
 
 Heidegger's theory of interpretation suggests that humans understand and interpret objects based on their own context, background, and purposes. The famous example of a hammer and a nail illustrates this idea well.
 
-When we encounter a hammer, we don't simply see it as an isolated object with certain physical properties. ==Instead, we interpret it in terms of its use and its relation to other objects and activities.== 
+When we encounter a hammer, we don't simply see it as an isolated object with certain physical properties. _Instead, we interpret it in terms of its use and its relation to other objects and activities._ 
 
 - For someone engaged in carpentry, a hammer is understood primarily as a tool for driving nails into wood. The hammer's meaning is determined by its role within the context of the carpenter's work.
 - For someone playing elden ring, a hammer is generally have high base damage, have a slower attack speed and excellent weapon at breaking enemy stances.
 
-==However, if we change the context, the interpretation of these objects can shift.==
+_However, if we change the context, the interpretation of these objects can shift._
 => 24xN
 
 
@@ -522,11 +522,11 @@ and I feel anxious doing it. I don't know where am I, and what I doing for what,
 This situation can occur in my case. 
 You have to solve some problems, with some specific concept. without the wide-bird-eye view of maps, you can't find the key to that problem.
 
-== Before u discovering the specific area, u have to make a whole map first.==
+_ Before u discovering the specific area, u have to make a whole map first._
 
 
 2. the pattern of making a statute and drawing 
-without a wide-abstract view(bird-eye-view), you could put your time and effort too much into something ==that is not very important.
+without a wide-abstract view(bird-eye-view), you could put your time and effort too much into something _that is not very important.
 this kind of situation can occur when you don't make an abstraction of the whole picture.
 
 
@@ -621,13 +621,13 @@ Living easy, living free
 
 Season ticket on a one-way ride
 
-==Asking nothing, leave me be==
+_Asking nothing, leave me be_
 
 Taking everything in my stride
 
-==Don't need reason, don't need rhyme==
+_Don't need reason, don't need rhyme_
 
-==Ain't nothing I would rather do==
+_Ain't nothing I would rather do_
 (U don't use your brain..!)
 
 Going down, party time
