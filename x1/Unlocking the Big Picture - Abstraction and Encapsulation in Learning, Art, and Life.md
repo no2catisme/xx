@@ -639,7 +639,6 @@ I'm on the highway to hell
 
 
 
+<img src="./Pasted image 20240808154457.png">
 
-
-![image](./Pasted image 20240808154457.png)
 <br />
