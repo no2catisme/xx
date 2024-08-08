@@ -156,7 +156,7 @@ https://youtube.com/watch?v=Dxdffpklp88&t=52s<br><br>
 
 ##### speir, and staff<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/yRb4hisqF3A/0.jpg)](http://www.youtube.com/watch?v=yRb4hisqF3A)
+[![Embedded YouTube Video](http://img.youtube.com/vi/yRb4hisqF3A/0.jpg)](http://www.youtube.com/watch?v=yRb4hisqF3A "Open YouTube video in new tab"){:target="_blank"}
 
 
 <hr><br><br>
@@ -178,12 +178,12 @@ if you start with elden ring, and u wonder 'What bulid tree is more fun?'<br><br
 - Wanna be a magician?<br><br>
 You can melt your enemies like ice cream with magnificent and massive magic!<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/MbjBBubf24M/0.jpg)](http://www.youtube.com/watch?v=MbjBBubf24M)
+[![Embedded YouTube Video](http://img.youtube.com/vi/MbjBBubf24M/0.jpg)](http://www.youtube.com/watch?v=MbjBBubf24M "Open YouTube video in new tab"){:target="_blank"}
 
 - Do u want stylish combat?<br><br>
 -you can be a samurai that skillfully defeats the enemy with your excellent reflexes!<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/9EQFfPbIfes/0.jpg)](http://www.youtube.com/watch?v=9EQFfPbIfes)
+[![Embedded YouTube Video](http://img.youtube.com/vi/9EQFfPbIfes/0.jpg)](http://www.youtube.com/watch?v=9EQFfPbIfes "Open YouTube video in new tab"){:target="_blank"}
 
 
 or maybe you can't decide yet...<br><br>
@@ -313,7 +313,7 @@ Well...<br><br>
 - Kanye west : Graduation<br><br>
 
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/Gazq7znfdH0/0.jpg)](http://www.youtube.com/watch?v=Gazq7znfdH0)
+[![Embedded YouTube Video](http://img.youtube.com/vi/Gazq7znfdH0/0.jpg)](http://www.youtube.com/watch?v=Gazq7znfdH0 "Open YouTube video in new tab"){:target="_blank"}
 
 - movie ikiru :<br><br>
 https://en.wikipedia.org/wiki/Ikiru<br><br>
@@ -324,7 +324,7 @@ https://en.wikipedia.org/wiki/Ikiru<br><br>
 
 again, I recommend u to watch full video.<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/D6nVo_1kG5w/0.jpg)](http://www.youtube.com/watch?v=D6nVo_1kG5w)
+[![Embedded YouTube Video](http://img.youtube.com/vi/D6nVo_1kG5w/0.jpg)](http://www.youtube.com/watch?v=D6nVo_1kG5w "Open YouTube video in new tab"){:target="_blank"}
 
 
 ### The pattern of The Crisis Generation<br><br>
@@ -397,7 +397,7 @@ my recommend: 'Underground' by Haruki Murakami<br><br>
 imagine, You are a data scientist, and what if the value of the distribution is 1 or too small?<br><br>
 
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/Mg0EASrWl-Y/0.jpg)](http://www.youtube.com/watch?v=Mg0EASrWl-Y)
+[![Embedded YouTube Video](http://img.youtube.com/vi/Mg0EASrWl-Y/0.jpg)](http://www.youtube.com/watch?v=Mg0EASrWl-Y "Open YouTube video in new tab"){:target="_blank"}
 
 <img src="./Pasted image 20240808144507.png"><br><br>
 
@@ -414,11 +414,11 @@ Seven Blind Mice is a children's picture book written and illustrated by Ed Youn
 <img src="./Pasted image 20240808175711.png"><br><br>
 english<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/yI-2b9pR2MA/0.jpg)](http://www.youtube.com/watch?v=yI-2b9pR2MA)
+[![Embedded YouTube Video](http://img.youtube.com/vi/yI-2b9pR2MA/0.jpg)](http://www.youtube.com/watch?v=yI-2b9pR2MA "Open YouTube video in new tab"){:target="_blank"}
 
 korean<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/dp0pMYdXzHw/0.jpg)](http://www.youtube.com/watch?v=dp0pMYdXzHw)
+[![Embedded YouTube Video](http://img.youtube.com/vi/dp0pMYdXzHw/0.jpg)](http://www.youtube.com/watch?v=dp0pMYdXzHw "Open YouTube video in new tab"){:target="_blank"}
 
 
 
@@ -627,7 +627,7 @@ oh shit! that is **HIGHWAY TO HELL!!!**<br><br>
 
 
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/gEPmA3USJdI/0.jpg)](http://www.youtube.com/watch?v=gEPmA3USJdI)
+[![Embedded YouTube Video](http://img.youtube.com/vi/gEPmA3USJdI/0.jpg)](http://www.youtube.com/watch?v=gEPmA3USJdI "Open YouTube video in new tab"){:target="_blank"}
 
 [verse1]<br><br>
 
