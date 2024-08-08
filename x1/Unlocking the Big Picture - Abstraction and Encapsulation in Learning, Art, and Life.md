@@ -466,10 +466,10 @@ as the perspective of humans often has misjudgment. (due to their limitation of 
 so, Thesis and Antithesis are not opposites of two concepts but rather refer to differences of perspective.<br><br>
 
 
-
-<hr><br><br>
-<hr><br><br>
-#### Eception - the real genius<br><br>
+<hr><br>
+<hr><br>
+<hr><br>
+#### Exception - the real genius<br><br>
 
 like elon musk, machiavelly, 니체, ect…<br><br>
 They are not the same as other blind mice. They can recognize the elephant at a glance.<br><br>
