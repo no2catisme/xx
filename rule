@@ -1,0 +1,11 @@
+1.<hr> = horizontal lines) which act as separators.
+2. '<br><br>' at the end of every lines = > line break with blank lines
+
+
+
+3. in vscode, how can <br><br> at the end of every lines that is not the blank line?
+
+^(.*\S.*)$ 
+=>
+$1<br><br>
+

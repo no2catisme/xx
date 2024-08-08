@@ -1,4 +1,4 @@
-<hr>
+
 
 
 This article is inspired by CWK's article, which uses an object-oriented way of thinking as a life principal.<br><br>
@@ -158,7 +158,7 @@ https://youtube.com/watch?v=Dxdffpklp88&t=52s<br><br>
 https://www.youtube.com/watch?v=yRb4hisqF3A<br><br>
 
 
----<br><br>
+<hr><br><br>
 with sword, speir, and staff, you only damage it little amount. but the hammer is different!<br><br>
 
 ##### hammer<br><br>
@@ -271,11 +271,11 @@ before when you need to do something in detail, it is better not to touch it, an
 +) Every object can be inheritance, abstraction, encapsulation, and polymorphism as their property.<br><br>
 
 
----<br><br>
+<hr><br><br>
 so,<br><br>
 when you do abstraction on something, you need to encapsulate detailed information.<br><br>
 
----<br><br>
+<hr><br><br>
  - encapsulate<br><br>
 In Python, there is a library called “HTTPX” which can help interact with the internet inside the code.<br><br>
 you don’t need to understand “every source code” of it.<br><br>
@@ -364,7 +364,7 @@ Another thing that happens is that all kinds of contradictions start to emerge f
 
 And when things get so chaotic and so disjointed, also it works just like mushrooms as before: **_con artists and demagogues and all kinds of weird gurus are going to fill the emptiness that people are feeling with all kinds of new belief systems and new kinds of religions and cults. And the leaders that emerge, the con artist leaders that emerge, aren't really connected to any kind of ideas. It's really just about power itself and naked self-interest._**<br><br>
 
----<br><br>
+<hr><br><br>
 ##### 5. In addition<br><br>
 also, <br><br>
 - in 'Underground' by Haruki Murakami, and 'Demons' by Dostoevsky has the same pattern.<br><br>
@@ -374,7 +374,7 @@ Christianity starts to fall apart, and various new ideologies start to emerge.<b
 
 - in the bible, the same pattern is suggested metaphorically as a 'false prophet'<br><br>
 
----<br><br>
+<hr><br><br>
 
 
 
@@ -454,8 +454,8 @@ Let's consider an everyday example of choosing what to eat for dinner:<br><br>
 
 - Synthesis: After considering both your desire for a healthy meal and your lack of energy to cook, you come up with a compromise. You decide to prepare a quick and easy meal using a mix of fresh ingredients and some pre-prepared items, like a salad kit or a rotisserie chicken from the grocery store. This way, you can still have a relatively healthy meal without spending too much time and effort cooking.<br><br>
 
----<br><br>
----<br><br>
+<hr><br><br>
+<hr><br><br>
 
 <img src="./Pasted image 20240808181649.png"><br><br>
 
@@ -469,8 +469,8 @@ so, Thesis and Antithesis are not opposites of two concepts but rather refer to 
 
 
 
----<br><br>
----<br><br>
+<hr><br><br>
+<hr><br><br>
 #### Eception - the real genius<br><br>
 
 like elon musk, machiavelly, 니체, ect…<br><br>
