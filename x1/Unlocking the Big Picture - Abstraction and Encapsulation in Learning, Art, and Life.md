@@ -628,7 +628,7 @@ Going down, party time
 My friends are gonna be there too
 
 [chorus]
-
+e
 I'm on the HIGHWAY TO HELL!!
 
 On the HIGHWAY TO HELL!!
