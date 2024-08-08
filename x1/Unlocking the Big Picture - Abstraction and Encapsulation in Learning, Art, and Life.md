@@ -40,14 +40,21 @@ You draw upon a lifetime of experiences, travels, and profound insights gained f
 
 But, after u complete it, u realize that the statute you've made does not match the mood of the Louvre Museum.<br><br>
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
-
-
-
-
-<img src="./Pasted image 20240808161415.png"><br><br>
 
 Oops!<br><br>
+<img src="./Pasted image 20240808161415.png"><br><br>
+
 
 
 
@@ -57,7 +64,7 @@ You have been too absorbed in your own world, thus forgetting to Look out the wi
 
 Haha, it was just kidding.<br><br>
 
-But, This kind of mistake actually occurs in real life, very often(including myself).<br><br>
+But, This kind of mistake actually occurs in real life, very often(including myself).
 Because people don't know how to use abstraction and encapsulation for wide-view and effective learning.<br><br>
 
 You better read this article first before you read it.<br><br>
@@ -203,19 +210,19 @@ I recommend u to watch full 6 min.<br><br>
 https://youtu.be/16EdvZNn7d0?si=izxKPs2XqY2tbr0U<br><br>
 
 
-```<br><br>
-at 2:21<br><br>
+```
+at 2:21
 
-미련을 가지고 사소한 것에 집착하고 가다듬는 것은 문제가 있어요. 이런 분들은 특징이 뭐냐면, 그림이 망가지는 것은 죽도록 싫고, 당장 눈 앞에 있는 것 깔끔하게 해서<br><br>
-“아 난 다 했다, 드디어 해결했다” 이 느낌을 빨리 받고 싶거든요.<br><br>
+미련을 가지고 사소한 것에 집착하고 가다듬는 것은 문제가 있어요. 이런 분들은 특징이 뭐냐면, 그림이 망가지는 것은 죽도록 싫고, 당장 눈 앞에 있는 것 깔끔하게 해서
+“아 난 다 했다, 드디어 해결했다” 이 느낌을 빨리 받고 싶거든요.
 
-한수 앞, 두수 앞 , 내가 브러쉬를 200번 칠하고 나서 나오는 결과물들을 예상하고, 가장 효율적인 길을 가져야 되는데,  2번, 4번, 100번, 200번... 이게 뭐야?<br><br>
-지금 당장 선 그어서 깔끔한 것만 보고 싶은 거예요. 앞날은 못 보는 거죠.<br><br>
+한수 앞, 두수 앞 , 내가 브러쉬를 200번 칠하고 나서 나오는 결과물들을 예상하고, 가장 효율적인 길을 가져야 되는데,  2번, 4번, 100번, 200번... 이게 뭐야?
+지금 당장 선 그어서 깔끔한 것만 보고 싶은 거예요. 앞날은 못 보는 거죠.
 
-그러니까 작은 것에 집착하다 보니까 전체적인 것 보고 전체적인 걸 못 보다 보니까 전체적으로 보면 딱히 변화하는 것이 없죠.<br><br>
+그러니까 작은 것에 집착하다 보니까 전체적인 것 보고 전체적인 걸 못 보다 보니까 전체적으로 보면 딱히 변화하는 것이 없죠.
 
-어 처음부터 다짜고짜 깔끔하게 다듬는 분들은 그림이 정말 많이 안 늘어요. 그림이 안 느는 케이스 중에서 가장 안 느는 케이스에요.<br><br>
-```<br><br>
+어 처음부터 다짜고짜 깔끔하게 다듬는 분들은 그림이 정말 많이 안 늘어요. 그림이 안 느는 케이스 중에서 가장 안 느는 케이스에요.
+```
 
 Based on the lecture script, here are the core principles for drawing:<br><br>
 
@@ -537,17 +544,17 @@ without a wide-bird-eye-view of the map, I could go nuts! feeling more and more 
 ## From now on, what can I do?<br><br>
 
 in general,<br><br>
-```<br><br>
-in some cases, you can dealing with that problem more easily, when you know which way is the most effective way.<br><br>
-To know that, first, you have to unlocks all the maps of the Field that you dealing with. <br><br>
+```
+in some cases, you can dealing with that problem more easily, when you know which way is the most effective way.
+To know that, first, you have to unlocks all the maps of the Field that you dealing with. 
 
-if you don't follow that way, you lost in tiny-uselss things, get overwhelmed, and can't achieve your goal.<br><br>
+if you don't follow that way, you lost in tiny-uselss things, get overwhelmed, and can't achieve your goal.
 
 
-abstraction and incapsulation is a related concept. when you abstract on something, <br><br>
-during that process, you encapsulate the thing that has low priority or high complexity.<br><br>
+abstraction and incapsulation is a related concept. when you abstract on something,
+during that process, you encapsulate the thing that has low priority or high complexity.
 
-```<br><br>
+```
 
 
 
@@ -589,9 +596,9 @@ I thought 'i know this!', but it was only a feeling of it.<br><br>
 
 ##### 3. Feeling unproductive disturbed my clear thinking.<br><br>
 
-```<br><br>
-급할수록 돌아가라<br><br>
-```<br><br>
+```
+급할수록 돌아가라
+```
 
 
 you decided to study math too queck, because when you're doing nothing, feeling unproductive, that makes you creazy.<br><br>
@@ -637,6 +644,18 @@ On the HIGHWAY TO HELL!!<br><br>
 HIGHWAY TO HELL!!<br><br>
 
 I'm on the highway to hell<br><br>
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 
 
