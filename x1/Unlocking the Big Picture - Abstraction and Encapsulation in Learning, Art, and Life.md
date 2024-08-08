@@ -1,20 +1,3 @@
-
-
-
-This article is inspired by CWK's article, which uses an object-oriented way of thinking as a life principal.<br><br>
-
-Using abstraction and encapsulation for effective learning strategies and maintaining cool-state-of mind.<br><br>
-Personally, writing this article helps me to self-reflect.<br><br>
-
-To open this article to the public is a little embarrassing for me(I think I'm not the level of who can teach others).<br><br>
-But it'll be good if it can help inspire the others who are willing to or ongoing similar journey.<br><br>
-
-Moreover, it is to express gratitude to my teacher, CWK 대두족장.<br><br>
-You give me a lot of inspiration now in my youth!<br><br>
-
-
-
-
 # Introduction<br><br>
 
 This article is inspired by CWK's article, which uses an object-oriented way of thinking as a life principal.<br><br>
@@ -139,9 +122,8 @@ Please check out the video (click the image)
 [![Embedded YouTube Video](http://img.youtube.com/vi/2-hOMhFF088/0.jpg)](https://youtu.be/2-hOMhFF088?si=dEUwIAYsPnpOgNxI&t=8 "Open YouTube video in new tab")
 
 ##### Fast travel in Zelda : Tears of the Kingdom<br><br>
-
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/J4-8ZoTJjiEsu8Ck/0.jpg)](https://youtu.be/AEpIXRRuypI?si=J4-8ZoTJjiEsu8Ck&t=177 "Open YouTube video in new tab")
+[![Embedded YouTube Video](http://img.youtube.com/vi/AEpIXRRuypI/0.jpg)](https://youtu.be/AEpIXRRuypI?si=J4-8ZoTJjiEsu8Ck&t=177 "Open YouTube video in new tab")
 
 
 
@@ -219,8 +201,8 @@ U can use fast travel to 'the other domain that you already know!'<br><br>
 # Example 2: Artistic Process - Balancing Detail and Overall Vision<br><br>
 
 I recommend u to watch full 6 min.<br><br>
-https://youtu.be/16EdvZNn7d0?si=izxKPs2XqY2tbr0U<br><br>
-
+Please check out the video (click the image)
+[![Embedded YouTube Video](http://img.youtube.com/vi/16EdvZNn7d0/0.jpg)](https://youtu.be/16EdvZNn7d0?si=izxKPs2XqY2tbr0U)
 
 ```
 at 2:21
