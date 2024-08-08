@@ -15,7 +15,9 @@ You give me a lot of inspiration now in my youth!
 <br/><br/>
 <br/><br/>
 <br/><br/>
+
 # Introduction
+
 <br/><br/>
 This article is inspired by CWK's article, which uses an object-oriented way of thinking as a life principal.
 <br/><br/>
