@@ -35,7 +35,7 @@ You give me a lot of inspiration now in my youth!
 imagine. if u are Sculpting a statute
 
 with the time and effort for exhibition at louvre museum. Wow! what a good chance..!!
-![[Pasted image 20240808160932.png]]
+<img src="./Pasted image 20240808160932.png">
 
 You draw upon a lifetime of experiences, travels, and profound insights gained from observing the world and its people. your every move imbued with your deepest philosophical reflections.
 
@@ -46,7 +46,7 @@ But, after u complete it, u realize that the statute you've made does not match 
 
 
 
-![[Pasted image 20240808161415.png]]
+<img src="./Pasted image 20240808161415.png">
 
 Oops!
 
@@ -113,14 +113,14 @@ Through these examples and discussions, we'll explore how abstraction and encaps
 When 대두족장 plays Zelda, or Elden Ring, first, he unlocks all the maps.
 
 ##### before unlock all the maps
-![[Pasted image 20240808140006.png]]
+<img src="./Pasted image 20240808140006.png">
 
 ##### unlocking maps...
 
-![[Pasted image 20240808140056.png]]
+<img src="./Pasted image 20240808140056.png">
 
 ##### after unlock all the maps
-![[Pasted image 20240808135937.png]]
+<img src="./Pasted image 20240808135937.png">
 
 
 In Elden Ring, **you can fast travel to any Site of Grace that you have previously touched**. Once you activate a Site of Grace in the world, its location is marked by a golden icon on your map. You can open your map by pressing the "Back" button on the controller, or "G" on the keyboard.
@@ -139,7 +139,7 @@ https://youtu.be/AEpIXRRuypI?si=J4-8ZoTJjiEsu8Ck&t=177
 
 #### ex1 dealing with **Crystalians** 
 
-![[Pasted image 20240808183828.png]]
+<img src="./Pasted image 20240808183828.png">
 
 In games, there are often situations where some monsters can easily be Defeated with a specific weapon, but you can't get that weapon in a nearer area.
 
@@ -386,7 +386,7 @@ imagine, You are a data scientist, and what if the value of the distribution is 
 
 https://www.youtube.com/watch?v=Mg0EASrWl-Y
 
-![[Pasted image 20240808144507.png]]
+<img src="./Pasted image 20240808144507.png">
 
 
 
@@ -398,7 +398,7 @@ take it as an interesting example. if u can, just enjoy it.
 
 Seven Blind Mice is a children's picture book written and illustrated by Ed Young. Based on the Indian fable of the blind men and an elephant, the book tells the story of seven mice who, each day, explore and describe a different part of the elephant
 
-![[Pasted image 20240808175711.png]]
+<img src="./Pasted image 20240808175711.png">
 english
 https://www.youtube.com/watch?v=yI-2b9pR2MA
 
@@ -450,13 +450,13 @@ Let's consider an everyday example of choosing what to eat for dinner:
 ---
 ---
 
-![[Pasted image 20240808181649.png]]
+<img src="./Pasted image 20240808181649.png">
 
 when we talk about Thesis and Antithesis, we often imagine two of the opposite object. 
 
 as the perspective of humans often has misjudgment. (due to their limitation of processing power) often interpreted"'thing in itself'" as various things, such as "A snake!", "A rope!", "A fan!", "A cliff!"
 
-![[Pasted image 20240808194238.png]]
+<img src="./Pasted image 20240808194238.png">
 
 so, Thesis and Antithesis are not opposites of two concepts but rather refer to differences of perspective.
 
@@ -474,7 +474,7 @@ They are not the same as other blind mice. They can recognize the elephant at a 
 
 Perhaps one day in the future, the white mouse will suddenly strike its knee and say something like this..
 
-![[Pasted image 20240808175631.png]]
+<img src="./Pasted image 20240808175631.png">
 
 
 in another word, normal people like you and me(blinded mice), must have trial and error - apply and try to have a various perspective(hrizon=24xN) -  to grasp the big things like The elephant.  
@@ -488,7 +488,7 @@ i recommand u the movie 'rashomon'
 
 in this part, there is no right answer!
 just have fun with your imagination!
-![[spongebob_imagination.gif]]
+<img src="./spongebob_imagination.gif">
 
 
 
@@ -533,7 +533,7 @@ this kind of situation can occur when you don't make an abstraction of the whole
 3. the pattern of the people of the crisis-era
 without a wide-bird-eye-view of the map, I could go nuts! feeling more and more anxious, and due to anxiety, my judgment ablility gets worse, and so on...
 
-![[Pasted image 20240808154229.png]]
+<img src="./Pasted image 20240808154229.png">
 
 ## From now on, what can I do?
 
@@ -603,7 +603,7 @@ it is the same as blind driving..!
 oh shit! that is **HIGHWAY TO HELL!!!**
 
 
-![[Pasted image 20240808201241.png]]
+<img src="./Pasted image 20240808201241.png">
 
 
 
@@ -628,7 +628,7 @@ Going down, party time
 My friends are gonna be there too
 
 [chorus]
-e
+
 I'm on the HIGHWAY TO HELL!!
 
 On the HIGHWAY TO HELL!!
