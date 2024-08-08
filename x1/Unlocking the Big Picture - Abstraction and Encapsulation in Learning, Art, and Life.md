@@ -136,13 +136,12 @@ In Elden Ring, **you can fast travel to any Site of Grace that you have previou
 Before starting to explain the reason for unlocking all the maps first, you have to know what 'fast travel' is.<br><br>
 ##### Fast travel in Elden Ring<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/2-hOMhFF088/0.jpg)](https://youtu.be/2-hOMhFF088?si=dEUwIAYsPnpOgNxI&t=8 "Open YouTube video in new tab"){:target="_blank"}
-
+[![Embedded YouTube Video](http://img.youtube.com/vi/2-hOMhFF088/0.jpg)](https://youtu.be/2-hOMhFF088?si=dEUwIAYsPnpOgNxI&t=8 "Open YouTube video in new tab")
 
 ##### Fast travel in Zelda : Tears of the Kingdom<br><br>
 
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/J4-8ZoTJjiEsu8Ck/0.jpg)](https://youtu.be/AEpIXRRuypI?si=J4-8ZoTJjiEsu8Ck&t=177 "Open YouTube video in new tab"){:target="_blank"}
+[![Embedded YouTube Video](http://img.youtube.com/vi/J4-8ZoTJjiEsu8Ck/0.jpg)](https://youtu.be/AEpIXRRuypI?si=J4-8ZoTJjiEsu8Ck&t=177 "Open YouTube video in new tab")
 
 
 
@@ -158,13 +157,13 @@ In games, there are often situations where some monsters can easily be Defeated 
 ##### sword<br><br>
 
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/Dxdffpklp88/0.jpg)](https://youtube.com/watch?v=Dxdffpklp88&t=52s "Open YouTube video in new tab"){:target="_blank"}
+[![Embedded YouTube Video](http://img.youtube.com/vi/Dxdffpklp88/0.jpg)](https://youtube.com/watch?v=Dxdffpklp88&t=52s "Open YouTube video in new tab")
 
 
 
 ##### speir, and staff<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/yRb4hisqF3A/0.jpg)](http://www.youtube.com/watch?v=yRb4hisqF3A "Open YouTube video in new tab"){:target="_blank"}
+[![Embedded YouTube Video](http://img.youtube.com/vi/yRb4hisqF3A/0.jpg)](http://www.youtube.com/watch?v=yRb4hisqF3A "Open YouTube video in new tab")
 
 
 <hr><br><br>
@@ -172,7 +171,7 @@ with sword, speir, and staff, you only damage it little amount. but the hammer i
 
 ##### hammer<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/8RFO3w2yTmU/0.jpg)](https://youtu.be/8RFO3w2yTmU?si=SyuOJRd0L4h8cGgb&t=25 "Open YouTube video in new tab"){:target="_blank"}
+[![Embedded YouTube Video](http://img.youtube.com/vi/8RFO3w2yTmU/0.jpg)](https://youtu.be/8RFO3w2yTmU?si=SyuOJRd0L4h8cGgb&t=25 "Open YouTube video in new tab")
 
 
 imagine you dealing with Crystalians with sword. it is heard!  <br><br>
@@ -187,12 +186,12 @@ if you start with elden ring, and u wonder 'What bulid tree is more fun?'<br><br
 - Wanna be a magician?<br><br>
 You can melt your enemies like ice cream with magnificent and massive magic!<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/MbjBBubf24M/0.jpg)](http://www.youtube.com/watch?v=MbjBBubf24M "Open YouTube video in new tab"){:target="_blank"}
+[![Embedded YouTube Video](http://img.youtube.com/vi/MbjBBubf24M/0.jpg)](http://www.youtube.com/watch?v=MbjBBubf24M "Open YouTube video in new tab")
 
 - Do u want stylish combat?<br><br>
 -you can be a samurai that skillfully defeats the enemy with your excellent reflexes!<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/9EQFfPbIfes/0.jpg)](http://www.youtube.com/watch?v=9EQFfPbIfes "Open YouTube video in new tab"){:target="_blank"}
+[![Embedded YouTube Video](http://img.youtube.com/vi/9EQFfPbIfes/0.jpg)](http://www.youtube.com/watch?v=9EQFfPbIfes "Open YouTube video in new tab")
 
 
 or maybe you can't decide yet...<br><br>
@@ -322,7 +321,7 @@ Well...<br><br>
 - Kanye west : Graduation<br><br>
 
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/Gazq7znfdH0/0.jpg)](http://www.youtube.com/watch?v=Gazq7znfdH0 "Open YouTube video in new tab"){:target="_blank"}
+[![Embedded YouTube Video](http://img.youtube.com/vi/Gazq7znfdH0/0.jpg)](http://www.youtube.com/watch?v=Gazq7znfdH0 "Open YouTube video in new tab")
 
 - movie ikiru :<br><br>
 https://en.wikipedia.org/wiki/Ikiru<br><br>
@@ -333,7 +332,7 @@ https://en.wikipedia.org/wiki/Ikiru<br><br>
 
 again, I recommend u to watch full video.<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/D6nVo_1kG5w/0.jpg)](http://www.youtube.com/watch?v=D6nVo_1kG5w "Open YouTube video in new tab"){:target="_blank"}
+[![Embedded YouTube Video](http://img.youtube.com/vi/D6nVo_1kG5w/0.jpg)](http://www.youtube.com/watch?v=D6nVo_1kG5w "Open YouTube video in new tab")
 
 
 ### The pattern of The Crisis Generation<br><br>
@@ -406,7 +405,7 @@ my recommend: 'Underground' by Haruki Murakami<br><br>
 imagine, You are a data scientist, and what if the value of the distribution is 1 or too small?<br><br>
 
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/Mg0EASrWl-Y/0.jpg)](http://www.youtube.com/watch?v=Mg0EASrWl-Y "Open YouTube video in new tab"){:target="_blank"}
+[![Embedded YouTube Video](http://img.youtube.com/vi/Mg0EASrWl-Y/0.jpg)](http://www.youtube.com/watch?v=Mg0EASrWl-Y "Open YouTube video in new tab")
 
 <img src="./Pasted image 20240808144507.png"><br><br>
 
@@ -423,11 +422,11 @@ Seven Blind Mice is a children's picture book written and illustrated by Ed Youn
 <img src="./Pasted image 20240808175711.png"><br><br>
 english<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/yI-2b9pR2MA/0.jpg)](http://www.youtube.com/watch?v=yI-2b9pR2MA "Open YouTube video in new tab"){:target="_blank"}
+[![Embedded YouTube Video](http://img.youtube.com/vi/yI-2b9pR2MA/0.jpg)](http://www.youtube.com/watch?v=yI-2b9pR2MA "Open YouTube video in new tab")
 
 korean<br><br>
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/dp0pMYdXzHw/0.jpg)](http://www.youtube.com/watch?v=dp0pMYdXzHw "Open YouTube video in new tab"){:target="_blank"}
+[![Embedded YouTube Video](http://img.youtube.com/vi/dp0pMYdXzHw/0.jpg)](http://www.youtube.com/watch?v=dp0pMYdXzHw "Open YouTube video in new tab")
 
 
 
@@ -636,7 +635,7 @@ oh shit! that is **HIGHWAY TO HELL!!!**<br><br>
 
 
 Please check out the video (click the image)
-[![Embedded YouTube Video](http://img.youtube.com/vi/gEPmA3USJdI/0.jpg)](http://www.youtube.com/watch?v=gEPmA3USJdI "Open YouTube video in new tab"){:target="_blank"}
+[![Embedded YouTube Video](http://img.youtube.com/vi/gEPmA3USJdI/0.jpg)](http://www.youtube.com/watch?v=gEPmA3USJdI "Open YouTube video in new tab")
 
 [verse1]<br><br>
 
