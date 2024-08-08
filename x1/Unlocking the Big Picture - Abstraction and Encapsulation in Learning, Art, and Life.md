@@ -550,9 +550,7 @@ during that process, you encapsulate the thing that has low priority or high com
 
 ```
 
-<mark>highlighted text</mark>
-
-
+$${\color{orange}Orange}$$
 
 
 
