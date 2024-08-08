@@ -1,7 +1,12 @@
 1.<hr> = horizontal lines) which act as separators.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
 2. '<br><br>' at the end of every lines = > line break with blank lines
 
-
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
 
 3. in vscode, how can <br><br> at the end of every lines that is not the blank line?
 
@@ -10,7 +15,9 @@
 $1<br><br>
 
 
-
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
 4.
 
 in github .md, how can i use youtube link as embedding?
@@ -82,4 +89,10 @@ This regex assumes that all your YouTube links are followed by exactly two <br> 
 After running this replacement, all your YouTube links should be converted to the embedded format you specified. Remember to review the changes to ensure they're correct, as regex replacements can sometimes have unexpected results.
 
 
+--------------------------------------------------------------------------
+if link is youtu.be(with start time), u should do it manually
+https://youtu.be/2-hOMhFF088?si=dEUwIAYsPnpOgNxI&t=8
+
+Please check out the video (click the image)
+[![Embedded YouTube Video](http://img.youtube.com/vi/2-hOMhFF088/0.jpg)](https://youtu.be/2-hOMhFF088?si=dEUwIAYsPnpOgNxI&t=8 "Open YouTube video in new tab"){:target="_blank"}
 
