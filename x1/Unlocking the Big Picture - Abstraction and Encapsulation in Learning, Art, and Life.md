@@ -110,24 +110,34 @@ Through various examples, we'll demonstrate how maintaining a broad perspective 
 Through these examples and discussions, we'll explore how abstraction and encapsulation can be powerful tools for learning, problem-solving, and maintaining a balanced perspective in various aspects of life.
 <br/><br/>
 <br/><br/>
+
 # Example 1: Gaming Strategies - Unlocking the Big Picture
+
 <br/><br/>
 When 대두족장 plays Zelda, or Elden Ring, first, he unlocks all the maps.
 <br/><br/>
+
 ##### before unlock all the maps
+
 <img src="./Pasted image 20240808140006.png">
 <br/><br/>
+
 ##### unlocking maps...
+
 <br/><br/>
 <img src="./Pasted image 20240808140056.png">
 <br/><br/>
+
 ##### after unlock all the maps
+
 <img src="./Pasted image 20240808135937.png">
 <br/><br/>
 <br/><br/>
 In Elden Ring, **you can fast travel to any Site of Grace that you have previously touched**. Once you activate a Site of Grace in the world, its location is marked by a golden icon on your map. You can open your map by pressing the "Back" button on the controller, or "G" on the keyboard.
 <br/><br/>
+
 ### fast travel
+
 Before starting to explain the reason for unlocking all the maps first, you have to know what 'fast travel' is.
 ##### Fast travel in Elden Ring
 https://youtu.be/2-hOMhFF088?si=dEUwIAYsPnpOgNxI&t=8
