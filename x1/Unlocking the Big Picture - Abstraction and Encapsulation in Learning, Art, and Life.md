@@ -1,3 +1,4 @@
+<hr>
 
 
 This article is inspired by CWK's article, which uses an object-oriented way of thinking as a life principal.<br><br>
