@@ -550,14 +550,9 @@ during that process, you encapsulate the thing that has low priority or high com
 
 ```
 
-$${\color{orange}Orange}$$
-<span style="color: orange;">Orange</span>
 abstraction and incapsulation $${\color{orange}Orange}$$ is a related concept. when you abstract on something, 
 during that process, you encapsulate the thing that has low priority or high complexity.
 
-
-$${\color{orange}Orange}$$
-<span style="color: orange;">Orange</span>
 
 
 
