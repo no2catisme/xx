@@ -9,3 +9,77 @@
 =>
 $1<br><br>
 
+
+
+4.
+
+in github .md, how can i use youtube link as embedding?
+:
+https://www.youtube.com/watch?v=gEPmA3USJdI
+
+To embed a YouTube video in a GitHub Markdown (.md) file, you can use the following syntax:
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID)
+
+
+
+For your specific YouTube link (https://www.youtube.com/watch?v=gEPmA3USJdI), you would use:
+
+[![Embedded YouTube Video](http://img.youtube.com/vi/gEPmA3USJdI/0.jpg)](http://www.youtube.com/watch?v=gEPmA3USJdI)
+
+
+
+This will create a clickable image thumbnail that links to the YouTube video. When someone clicks on the image, they will be taken to the YouTube video page.
+
+Please note:
+
+This method doesn't actually embed the video player in the GitHub page. It creates a linked thumbnail image instead.
+The image used is the default thumbnail for the video (you can change the number at the end of the image URL to use different thumbnails if available: 0.jpg, 1.jpg, 2.jpg, 3.jpg).
+You can replace "IMAGE ALT TEXT HERE" with a description of the video for accessibility purposes.
+If you want to provide more context, you can also add a description or title above the embed, like this:
+
+### Check out this awesome video!
+
+[![Embedded YouTube Video](http://img.youtube.com/vi/gEPmA3USJdI/0.jpg)](http://www.youtube.com/watch?v=gEPmA3USJdI)
+
+
+
+This will display a header above the video thumbnail.
+
+in my .md file, youtube linke are like this
+:
+https://www.youtube.com/watch?v=gEPmA3USJdI<br><br>
+
+how can i turn every youtube links like blow using regex in vscode?
+
+[![Embedded YouTube Video](http://img.youtube.com/vi/gEPmA3USJdI/0.jpg)](http://www.youtube.com/watch?v=gEPmA3USJdI)
+
+To convert YouTube links in your .md file to the embedded format using regex in VS Code, you can use the following steps:
+
+Open your .md file in VS Code.
+Press Ctrl+H (or Cmd+H on Mac) to open the Find and Replace dialog.
+Make sure the "Regular expression" option is enabled (usually an .* icon).
+In the "Find" field, enter this regex:
+https://www\.youtube\.com/watch\?v=([a-zA-Z0-9_-]+)<br><br>
+
+
+
+In the "Replace" field, enter:
+[![Embedded YouTube Video](http://img.youtube.com/vi/$1/0.jpg)](http://www.youtube.com/watch?v=$1)
+
+
+
+Click "Replace All" to convert all matching YouTube links in your document.
+Explanation of the regex:
+
+https://www\.youtube\.com/watch\?v= matches the start of a YouTube URL.
+([a-zA-Z0-9_-]+) captures the video ID.
+<br><br> matches the line breaks after the URL.
+The replacement uses $1 to insert the captured video ID into the new format.
+
+This regex assumes that all your YouTube links are followed by exactly two <br> tags. If the format varies, you might need to adjust the regex accordingly.
+
+After running this replacement, all your YouTube links should be converted to the embedded format you specified. Remember to review the changes to ensure they're correct, as regex replacements can sometimes have unexpected results.
+
+
+
