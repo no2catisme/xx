@@ -135,11 +135,14 @@ In Elden Ring, **you can fast travel to any Site of Grace that you have previou
 ### fast travel<br><br>
 Before starting to explain the reason for unlocking all the maps first, you have to know what 'fast travel' is.<br><br>
 ##### Fast travel in Elden Ring<br><br>
+Please check out the video (click the image)
 [![Embedded YouTube Video](http://img.youtube.com/vi/2-hOMhFF088/0.jpg)](https://youtu.be/2-hOMhFF088?si=dEUwIAYsPnpOgNxI&t=8 "Open YouTube video in new tab"){:target="_blank"}
 
 
 ##### Fast travel in Zelda : Tears of the Kingdom<br><br>
-https://youtu.be/AEpIXRRuypI?si=J4-8ZoTJjiEsu8Ck&t=177<br><br>
+
+Please check out the video (click the image)
+[![Embedded YouTube Video](http://img.youtube.com/vi/J4-8ZoTJjiEsu8Ck/0.jpg)](https://youtu.be/AEpIXRRuypI?si=J4-8ZoTJjiEsu8Ck&t=177 "Open YouTube video in new tab"){:target="_blank"}
 
 
 
@@ -153,7 +156,11 @@ In games, there are often situations where some monsters can easily be Defeated 
 
 
 ##### sword<br><br>
-https://youtube.com/watch?v=Dxdffpklp88&t=52s<br><br>
+
+Please check out the video (click the image)
+[![Embedded YouTube Video](http://img.youtube.com/vi/Dxdffpklp88/0.jpg)](https://youtube.com/watch?v=Dxdffpklp88&t=52s "Open YouTube video in new tab"){:target="_blank"}
+
+
 
 ##### speir, and staff<br><br>
 Please check out the video (click the image)
@@ -164,7 +171,8 @@ Please check out the video (click the image)
 with sword, speir, and staff, you only damage it little amount. but the hammer is different!<br><br>
 
 ##### hammer<br><br>
-https://youtu.be/8RFO3w2yTmU?si=SyuOJRd0L4h8cGgb&t=25<br><br>
+Please check out the video (click the image)
+[![Embedded YouTube Video](http://img.youtube.com/vi/8RFO3w2yTmU/0.jpg)](https://youtu.be/8RFO3w2yTmU?si=SyuOJRd0L4h8cGgb&t=25 "Open YouTube video in new tab"){:target="_blank"}
 
 
 imagine you dealing with Crystalians with sword. it is heard!  <br><br>
