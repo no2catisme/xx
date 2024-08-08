@@ -618,6 +618,14 @@ oh shit! that is **HIGHWAY TO HELL!!!**<br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gEPmA3USJdI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID)
+
+[![Embedded YouTube Video](http://img.youtube.com/vi/gEPmA3USJdI/0.jpg)](http://www.youtube.com/watch?v=gEPmA3USJdI)
+
+
+
+
+
 
 
 https://www.youtube.com/watch?v=gEPmA3USJdI<br><br>
