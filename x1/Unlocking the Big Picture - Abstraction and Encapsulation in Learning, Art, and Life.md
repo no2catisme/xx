@@ -222,7 +222,7 @@ Based on the lecture script, here are the core principles for drawing:
 
 1. Start with the big picture:
     
-    - $${\color{orange}Begin by sketching the overall shape and composition}$$
+    - . $${\color{orange}Begin by sketching the overall shape and composition}$$
     - ==Focus on the entire image before refining details==
     - ==Avoid getting caught up in perfecting small areas too early==
 2. Build in layers:
